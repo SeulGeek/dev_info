@@ -1,6 +1,9 @@
 # dev_info
 This is list of information for clean code and communication
 
+## UI/UX
+- [ ] [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
+
 ## Kotlin (코틀린)
 - [ ] [Kotlin learning course](https://developer.android.com/kotlin/campaign/learn)
 
