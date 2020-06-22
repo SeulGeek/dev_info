@@ -20,6 +20,7 @@ This is list of information for clean code and communication
 
 ## 개발/PR 관리
 - [ ] [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
+- [ ] [카카오스토리 팀의 코드 리뷰 도입 사례 – 코드 리뷰, 어디까지 해봤니?](https://tech.kakao.com/2016/02/04/code-review/)
 
 ## 사이드 프로젝트
 - [ ] [Daymood : 사이드 프로젝트 어떻게든 출시하기](https://medium.com/@hyunji.ma/daymood-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%96%B4%EB%96%BB%EA%B2%8C%EB%93%A0-%EC%B6%9C%EC%8B%9C%ED%95%98%EA%B8%B0-10b3d99d9dc7)
