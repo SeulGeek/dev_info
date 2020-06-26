@@ -3,6 +3,7 @@ This is list of information for clean code and communication
 
 ## UI/UX
 - [ ] [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
+- [ ] [App Design Trends 2020](https://medium.muz.li/app-design-trends-2020-c742184c2777)
 
 ## Kotlin (코틀린)
 - [ ] [Kotlin learning course](https://developer.android.com/kotlin/campaign/learn)
