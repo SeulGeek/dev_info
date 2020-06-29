@@ -26,6 +26,9 @@ This is list of information for clean code and communication
 ## 사이드 프로젝트
 - [ ] [Daymood : 사이드 프로젝트 어떻게든 출시하기](https://medium.com/@hyunji.ma/daymood-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%96%B4%EB%96%BB%EA%B2%8C%EB%93%A0-%EC%B6%9C%EC%8B%9C%ED%95%98%EA%B8%B0-10b3d99d9dc7)
 
+## 안드로이드 어플 출시
+- [ ] [플레이스토어 앱등록 출시하기](https://m.blog.naver.com/swing2app/221028227209)
+
 ## 도서 추천
 - [ ] [개발자 대상 200페이지 이하 추천 도서](https://news.hada.io/topic?id=2187)
 
