@@ -20,6 +20,7 @@ This is list of information for clean code and communication
 
 ## 블록체인
 - [ ] [당신이 블록체인 앱 만드는 법을 배워야만 하는 이유](https://medium.com/loom-network-korean/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%95%B1-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95%EC%9D%84-%EB%B0%B0%EC%9B%8C%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-e1a4c6e73f3d)
+- [ ] [비 개발자를 위한 미디어 블록체인 입문](https://brunch.co.kr/@daeminpark/74)
 
  ### 블록체인 기초 개념 무료 강의
 - [ ] [드림플러스](https://dreamplus.io/academy/blockchain/berkeley_curriculum)
