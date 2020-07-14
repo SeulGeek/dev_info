@@ -14,6 +14,7 @@ This is list of information for clean code and communication
 
 ## Android (안드로이드)
 - [ ] [안드로이드 기초 강좌](https://recipes4dev.tistory.com/category/ANDROID%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) (추천:★ ★ ★ ★ ★ )
+- [ ] [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://academy.realm.io/kr/posts/360andev-chris-guzman-android-libraries-beginner/)
 
 ## Kotlin (코틀린)
 - [ ] [Kotlin learning course](https://developer.android.com/kotlin/campaign/learn)
