@@ -37,6 +37,20 @@ This is list of information for clean code and communication
 ## 개발/PR 관리
 - [ ] [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
 - [ ] [카카오스토리 팀의 코드 리뷰 도입 사례 – 코드 리뷰, 어디까지 해봤니?](https://tech.kakao.com/2016/02/04/code-review/)
+<details>
+    <summary>컴퓨터공학과를 다니면서 배우는 것(https://news.hada.io/topic?id=2497&s=09)</summary>
+ 
+             0. 목록: https://brunch.co.kr/@toughrogrammer/9  
+             1. 이산수학: https://brunch.co.kr/@toughrogrammer/8  
+             2. 선형대수: https://brunch.co.kr/@toughrogrammer/10  
+             3. 형식언어/오토마타: https://brunch.co.kr/@toughrogrammer/11  
+             4. 자료구조: https://brunch.co.kr/@toughrogrammer/12  
+             5. 알고리즘: https://brunch.co.kr/@toughrogrammer/13  
+             6. 컴퓨터 구조: https://brunch.co.kr/@toughrogrammer/14  
+             7. 운영체제: https://brunch.co.kr/@toughrogrammer/15  
+             8. 네트워크: https://brunch.co.kr/@toughrogrammer/16  
+             9. 데이터베이스: https://brunch.co.kr/@toughrogrammer/17               
+</details>
 
 ## 커리어
 - [ ] [주니어 개발자 취업을 위한 이력서, 포트폴리오](https://devuryu.tistory.com/159)
