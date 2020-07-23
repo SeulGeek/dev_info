@@ -17,6 +17,7 @@ This is list of information for clean code and communication
 - [ ] [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://academy.realm.io/kr/posts/360andev-chris-guzman-android-libraries-beginner/)
 - [ ] [Associate Android Developer Certification](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 - [ ] [Developer Guides](https://developer.android.com/guide)
+- [ ] [A Guide to the Android Studio Profiler](https://www.techotopia.com/index.php/A_Guide_to_the_Android_Studio_Profiler)
 
 ## Kotlin (코틀린)
 - [ ] [Kotlin learning course](https://developer.android.com/kotlin/campaign/learn)
