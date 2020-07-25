@@ -18,6 +18,7 @@ This is list of information for clean code and communication
 - [ ] [Associate Android Developer Certification](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 - [ ] [Developer Guides](https://developer.android.com/guide)
 - [ ] [A Guide to the Android Studio Profiler](https://www.techotopia.com/index.php/A_Guide_to_the_Android_Studio_Profiler)
+- [ ] [Android MVVM Design Pattern](https://www.journaldev.com/20292/android-mvvm-design-pattern)
 
 ## Kotlin (코틀린)
 - [ ] [Kotlin learning course](https://developer.android.com/kotlin/campaign/learn)
