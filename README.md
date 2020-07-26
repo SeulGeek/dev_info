@@ -55,6 +55,7 @@ This is list of information for clean code and communication
 </details>
 
 ## 커리어
+- [ ] [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 - [ ] [주니어 개발자 취업을 위한 이력서, 포트폴리오](https://devuryu.tistory.com/159)
 - [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
