@@ -22,6 +22,7 @@ This is list of information for clean code and communication
 - [ ] [Android MVVM Design Pattern](https://www.journaldev.com/20292/android-mvvm-design-pattern)
 - [ ] [안드로이드 기기 식별 방법 - UUID(Universally unique identifier)](https://boxfoxs.tistory.com/269#:~:text=%E2%96%A0%20UUID%20-%20Universally%20unique%20identifier%20%3A%20%EB%B2%94%EC%9A%A9%EA%B3%A0%EC%9C%A0%EC%8B%9D%EB%B3%84%EC%9E%90&text=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20OS%EA%B0%80%20%EB%8C%80%EC%B2%B5,%EB%A9%94%EC%86%8C%EB%93%9C%EA%B0%80%EB%A5%BC%20%EC%A0%9C%EA%B3%B5%ED%95%B4%20%EC%A4%8D%EB%8B%88%EB%8B%A4)
 - [ ] [AsyncTask란? (개념 및 사용법)](https://itmining.tistory.com/7)
+- [ ] [Falsehoods Android Developers Believe about Lifecycles](https://www.droidcon.com/media-detail?video=443146897)
 
 ## Kotlin (코틀린)
 - [ ] [Kotlin learning course](https://developer.android.com/kotlin/campaign/learn)
