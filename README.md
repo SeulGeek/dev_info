@@ -67,6 +67,7 @@ This is list of information for clean code and communication
 - [ ] [주니어 개발자 취업을 위한 이력서, 포트폴리오](https://devuryu.tistory.com/159)
 - [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [ ] [99콘 연봉협상 후기 - 개발자 연봉협상을 똑똑하게 하는 방법](https://baek.dev/post/11/)
+- [ ] [경력을 발전 시키고 싶다면 - 커리어 스킬(1)](https://baek.dev/post/26/)
 
 ## 사이드 프로젝트
 - [ ] [Daymood : 사이드 프로젝트 어떻게든 출시하기](https://medium.com/@hyunji.ma/daymood-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%96%B4%EB%96%BB%EA%B2%8C%EB%93%A0-%EC%B6%9C%EC%8B%9C%ED%95%98%EA%B8%B0-10b3d99d9dc7)
