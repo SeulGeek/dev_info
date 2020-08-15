@@ -61,6 +61,7 @@ This is list of information for clean code and communication
 </details>
 
 - [ ] [젠킨스 사용하여 자동 배포환경 만들어보기](https://kingbbode.tistory.com/35)
+- [ ] [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/?s=09)
 
 ## 커리어
 - [ ] [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
