@@ -87,3 +87,4 @@ This is list of information for clean code and communication
 - [ ] [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
 - [ ] [Google announces 100,000 scholarships for online certificates in data analytics, project management and UX](https://www.cnbc.com/2020/07/13/google-announces-certificates-in-data-project-management-and-ux.html)
 - [ ] [[번역] 빠른 개발을 위한 기술 - 1](https://rinae.dev/posts/the-fine-art-of-fast-development-kr-1)
+- [ ] [상업적으로 성공한 오픈소스 기업](https://lgcnsblog.tistory.com/2440?category=668556&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
