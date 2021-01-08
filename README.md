@@ -5,6 +5,9 @@ This is list of information for clean code and communication
 - [ ] [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1](https://joshua1988.github.io/web-development/http-part1/)
 - [ ] [Ruby on Rails tutorial](https://railstutorial.jp/)
 
+## 서버
+- [ ] [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%ED%8E%B8/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&s=06)
+
 ## UI/UX
 - [ ] [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
 - [ ] [App Design Trends 2020](https://medium.muz.li/app-design-trends-2020-c742184c2777)
