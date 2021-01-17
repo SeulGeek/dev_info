@@ -90,6 +90,9 @@ This is list of information for clean code and communication
 ## 도서 추천
 - [ ] [개발자 대상 200페이지 이하 추천 도서](https://news.hada.io/topic?id=2187)
 
+## 글쓰기
+- [ ] [Technical Writing Courses from google](https://developers.google.com/tech-writing)
+
 ## Inspiring (영감)
 - [ ] [2020년 상반기. 양질의 기술 아티클 모음](https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
 - [ ] [그 때 성장이라고 생각했던 것들](https://jbee.io/essay/growth-mistaken-2020/)
