@@ -70,6 +70,7 @@ This is list of information for clean code and communication
 - [ ] [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - [ ] [LEARN X BY DOING Y](https://aquadzn.github.io/learn-x-by-doing-y/)
 : 뭔가를 학습 할 때 프로젝트 기반으로 배울수 있는 자료 모음. 검색가능
+- [ ] [Mac에서 프로토타입 영상 뽑아내기](https://medium.com/hyuk/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%98%81%EC%83%81-%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0-c0ffce0e408e)
 
 ## 커리어
 - [ ] [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
