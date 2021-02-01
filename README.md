@@ -71,6 +71,7 @@ This is list of information for clean code and communication
 - [ ] [LEARN X BY DOING Y](https://aquadzn.github.io/learn-x-by-doing-y/)
 : 뭔가를 학습 할 때 프로젝트 기반으로 배울수 있는 자료 모음. 검색가능
 - [ ] [Mac에서 프로토타입 영상 뽑아내기](https://medium.com/hyuk/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%98%81%EC%83%81-%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0-c0ffce0e408e)
+- [ ] [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 
 ## 커리어
 - [ ] [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
